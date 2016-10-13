@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		31082E3A1DAF6EF500958A3D /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 31082E391DAF6EF500958A3D /* README.md */; };
 		313AB6B01DAB46E5007CAB7C /* UIView+InitSubview.m in Sources */ = {isa = PBXBuildFile; fileRef = 313AB6AF1DAB46E5007CAB7C /* UIView+InitSubview.m */; };
 		31C8ABD81DAB214000DE4B33 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 31C8ABD71DAB214000DE4B33 /* main.m */; };
 		31C8ABDB1DAB214000DE4B33 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 31C8ABDA1DAB214000DE4B33 /* AppDelegate.m */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		31082E391DAF6EF500958A3D /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		313AB6AE1DAB46E5007CAB7C /* UIView+InitSubview.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+InitSubview.h"; sourceTree = "<group>"; };
 		313AB6AF1DAB46E5007CAB7C /* UIView+InitSubview.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+InitSubview.m"; sourceTree = "<group>"; };
 		31C8ABD31DAB214000DE4B33 /* SegmentControl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SegmentControl.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -87,6 +89,7 @@
 		31C8ABCA1DAB214000DE4B33 = {
 			isa = PBXGroup;
 			children = (
+				31082E391DAF6EF500958A3D /* README.md */,
 				31C8ABD51DAB214000DE4B33 /* SegmentControl */,
 				31C8ABEF1DAB214000DE4B33 /* SegmentControlTests */,
 				31C8ABFA1DAB214000DE4B33 /* SegmentControlUITests */,
@@ -280,6 +283,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				31082E3A1DAF6EF500958A3D /* README.md in Sources */,
 				31C8ABDE1DAB214000DE4B33 /* ViewController.m in Sources */,
 				31C8AC0B1DAB21F700DE4B33 /* MTSegmentedControl.m in Sources */,
 				31C8ABDB1DAB214000DE4B33 /* AppDelegate.m in Sources */,
